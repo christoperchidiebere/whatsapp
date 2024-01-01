@@ -1,0 +1,6 @@
+im practicing how to use git and github
+so far so good ive learnt diffrent git commands
+such as git add it means to add file from working area
+to stagging area, then git commit is to commit a file to our local repo
+when a file is at the workig area, it is untracked, it becomes tracked when at the 
+stagging area.
